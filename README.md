@@ -17,5 +17,6 @@ The model achieves high accuracy in predicting brain cancer, demonstrating the p
  
 
 - ## Dataset 
-  -The dataset used can be found on kaggel here:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+  -The dataset used can be found on kaggel here :https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+  
   -It contains various image folders of different type of cancers in the brain along with pictures of a normal, healthy brain.
